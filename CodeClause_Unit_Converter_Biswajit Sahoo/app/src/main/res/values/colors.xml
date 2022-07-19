@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_highlight">#6080c0ff</color>
+    <color name="accent">#4080ff</color>
+    <color name="toolbar">#ff4050a0</color>
+    <color name="statusBar">#ff203080</color>
+    <color name="window_background">#444</color>
+    <color name="number_pad_background">#333</color>
+    <color name="number_pad_button">#46a</color>
+    <color name="number_pad_button_pressed">#348</color>
+    <color name="category_text_background">#2fff</color>
+    <color name="name_text">#ddd</color>
+    <color name="value_text">#f0f0f0</color>
+    <color name="list_divider">#555</color>
+    <color name="fab_color">#0a6</color>
+    <color name="card_background">#666</color>
+</resources>
